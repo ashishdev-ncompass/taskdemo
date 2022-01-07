@@ -1,2 +1,3 @@
 this is the line written in the master branch.
 working in branch2 and will not commit these coz these should be in branch1
+now this is third line which is gonna be committed but doesn't belong in branch2
